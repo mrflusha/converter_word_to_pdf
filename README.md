@@ -11,3 +11,7 @@ in path directory
 
 
 python 3.6+, win64, docto
+
+<a href = 'https://github.com/mrflusha/converter_word_to_pdf/releases/tag/pdf'>pre release</a><br>
+<a href = 'https://cloud.mail.ru/public/tcJq/LSfe2C9WV'>mirror new release</a><br>
+<a href ='https://vk.com/ocop_n'> vk group</a>
